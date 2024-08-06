@@ -37,12 +37,27 @@ This data was gathered during last year's campaign. Data description is as follo
 - **Recency:** Number of days since the last purchase
 
 ## Libraries used:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scipy
-- warnings
+- *pandas*
+- *numpy*
+- *matplotlib*
+- *seaborn*
+- *scipy*
+- *warnings*
 
+## Key components of the project include:
 
- 
+1. **Data Understanding:**
+     - Analyzing the dataset containing customer demographics and purchase behavior.
+     - Key features include customer age, education, marital status, income, and spending on various product categories.
+
+2. **Data Cleaning and Preparation:**
+     - Handling missing values and outliers to ensure data quality.
+     - Converting data types and creating new features for analysis.
+
+3. **Descriptive Statistics Analysis:**
+     - Calculating measures of central tendency and dispersion to summarize data.
+     - Visualizing data distributions and relationships using histograms, bar charts, and scatter plots.
+
+4. **Correlation Analysis:**
+     - Identifying relationships between different variables to uncover insights.
+     - Using correlation matrices and scatter plot matrices to visualize correlations.
