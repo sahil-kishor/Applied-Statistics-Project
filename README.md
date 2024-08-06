@@ -100,3 +100,13 @@ Specific recommendations include:
 
 *These insights will assist the company in making data-driven decisions to improve customer retention and maximize the effectiveness of marketing campaigns.*
 
+## Author
+
+Sahil Kishor
+
+Project : https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/blob/main/Machine_Learning_Capstone_Project.ipynb
+
+Email : kishorsahil555@gmail.com
+
+LinkedIn : www.linkedin.com/in/sahil-kishor
+
