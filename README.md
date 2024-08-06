@@ -106,7 +106,7 @@ Specific recommendations include:
 
 ### Sahil Kishor
 
-Project : https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/blob/main/Machine_Learning_Capstone_Project.ipynb
+Project : https://github.com/sahil-kishor/Customer-Purchase-Behaviour/blob/main/Final_File_Applied_Statistic_Python.ipynb 
 
 Email : kishorsahil555@gmail.com
 
