@@ -4,7 +4,8 @@
 ## Problem Statement
 
 Welcome to the Probability and Statistics project! 📊🔍 In this exciting journey, you'll get the chance to apply the concepts you've learned in probability theory and statistics to analyze a real-world dataset. This project is your opportunity to dive deep into the world of data analysis and gain practical experience with the tools and techniques you've been learning. 🚀
-![consumer_behaviour_2](https://github.com/user-attachments/assets/854c89f6-40a8-4beb-8ca0-5c8c1880a20e)
+![consumer purchase behaviour](https://github.com/user-attachments/assets/b09b1c0d-aca8-427d-b6a6-de125dba9764)
+
 
 ## Objective
 
