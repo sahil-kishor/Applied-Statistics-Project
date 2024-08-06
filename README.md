@@ -102,7 +102,7 @@ Specific recommendations include:
 
 ## Author
 
-Sahil Kishor
+### Sahil Kishor
 
 Project : https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/blob/main/Machine_Learning_Capstone_Project.ipynb
 
